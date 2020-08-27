@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SVTest" max_length="40" name="x_58872_needit_svtest" sizeclass="1" type="collection">
+        <element display="true" label="TestCol" max_length="125" name="testcol" type="string"/>
+    </element>
+</database>
